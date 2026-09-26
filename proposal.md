@@ -26,19 +26,22 @@ Australia had 14.84 million people employed and 4.6% unemployment in August 2026
 
 ## Policy options
 
-Options are assessed against **efficiency** (30%), **equity** (30%), **administrative feasibility** (20%) and **fiscal cost** (20%). Higher scores are better; costs are proposal estimates in 2026 dollars and include administration.
+Options are assessed against **efficiency** (30%), **equity** (30%), **administrative feasibility** (20%) and **fiscal cost（score)** (20%). Higher scores are better; costs are proposal estimates in 2026 dollars and include administration.
 
 | Option: mechanism, target and scale | Efficiency | Equity | Feasibility | Fiscal cost | Weighted score |
 |---|---:|---:|---:|---:|---:|
-| **1. AI Skills Accounts.** Give 80,000 workers a voucher of up to $2,000 for approved, stackable training tied to their occupation; require paid release time from participating employers. Prioritise routine clerical and entry-level workers, women, mature-age workers and regional communities. $160m vouchers + $20m delivery/evaluation. | 4.0 — builds complements to AI; some deadweight risk | 5.0 — eligibility corrects unequal access | 4.0 — uses TAFE/RTO and Jobs and Skills Council channels | **$180m; 3.0** | **4.1** |
-| **2. AI Transition Guarantee.** Through Workforce Australia, offer 15,000 workers affected by a notified technology restructure career assessment ($3,000 average) plus training, hiring or temporary wage-gap support ($7,000 average); add $15m for delivery and data. | 3.5 — improves mobility but cannot preserve all earnings | 5.0 — concentrates support on realised loss | 3.0 — employer notification and attribution are difficult | **$165m; 3.0** | **3.8** |
-| **3. Worker-centred SME adoption grants.** Through the National AI Centre, provide up to $30,000, matched 1:1, to 2,000 SMEs/not-for-profits. Require worker co-design, a task-and-data impact assessment, human review, portable data and outcome reporting; reserve 40% for regional applicants. $60m grants + $15m support/evaluation. | 4.5 — links technology, job redesign and skills | 3.5 — diffuses gains, though non-adopters receive nothing | 4.0 — extends the existing AI Adopt model | **$75m; 4.0** | **4.0** |
+| **1. AI Skills Accounts.** Give 80,000 workers a voucher of up to $2,000 for approved, stackable training tied to their occupation; require paid release time from participating employers. Prioritise routine clerical and entry-level workers, women, mature-age workers and regional communities. $160m vouchers + $20m delivery/evaluation. | 4.0 — builds complements to AI; some deadweight risk | 5.0 — eligibility corrects unequal access | 4.0 — uses TAFE/RTO and Jobs and Skills Council channels | **$180m; (3.0/5)** | **4.1** |
+| **2. AI Transition Guarantee.** Through Workforce Australia, offer 15,000 workers affected by a notified technology restructure career assessment ($3,000 average) plus training, hiring or temporary wage-gap support ($7,000 average); add $15m for delivery and data. | 3.5 — improves mobility but cannot preserve all earnings | 5.0 — concentrates support on realised loss | 3.0 — employer notification and attribution are difficult | **$165m; (3.0/5)** | **3.8** |
+| **3. Worker-centred SME adoption grants.** Through the National AI Centre, provide up to $30,000, matched 1:1, to 2,000 SMEs/not-for-profits. Require worker co-design, a task-and-data impact assessment, human review, portable data and outcome reporting; reserve 40% for regional applicants. $60m grants + $15m support/evaluation. | 4.5 — links technology, job redesign and skills | 3.5 — diffuses gains, though non-adopters receive nothing | 4.0 — extends the existing AI Adopt model | **$75m; (4.0/5)** | **4.0** |
 
 Option 1 ranks highest. Options 2 and 3 provide targeted insurance and firm-level additionality; together, the three options address complementary market failures.
+
 ## Recommended package and implementation
+
 DEWR should fund all three options as a **$420 million, three-year package**, with continuation conditional on demonstrated results.
-| Timing | Delivery and responsibility | Decision points and KPIs |
-|---|---|---|
+
+| Timing | Delivery and responsibility | Decision points and KPIs ||---|---|---|
+
 | **Months 0–6** | DEWR leads design with DISR/NAIC, JSA, Jobs and Skills Councils, states, unions and employer groups. JSA identifies priority occupations and establishes employment, wage, task and firm-size baselines. | Publish eligibility, approved-course and consultation rules; establish privacy-preserving data linkage and an independent evaluator. |
 | **Months 7–18** | Pilot 20,000 Skills Accounts, 5,000 Guarantees and 500 SME grants across financial/professional services, health administration and regional businesses. | Report quarterly on participation, completions, job quality, displacement, earnings and productivity; compare outcomes with matched non-participants. |
 | **Months 19–36** | Scale to the stated ceilings only where interim evaluation shows additional benefits; review at month 30 and sunset ineffective components. | 80,000 accounts with 75% completion and 70% going to priority cohorts; 70% of Guarantee users re-employed within six months and median earnings at least 90% of previous earnings within 12 months; 2,000 SME projects, 40% regional, with 75% reporting independently verifiable time, quality or service gains without worse worker outcomes. |
