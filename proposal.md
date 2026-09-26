@@ -4,7 +4,7 @@
 
 ## Executive summary
 
-Generative AI (GenAI) is more likely to reorganise Australian jobs than eliminate them, but gains will not be automatic or evenly shared. Jobs and Skills Australia (JSA) finds greater potential for task augmentation than automation, while routine clerical work, entry-level pathways and already disadvantaged cohorts face concentrated risks. Meanwhile, smaller and regional firms may fall behind better-capitalised adopters. DEWR should implement a three-year **AI Workforce Transition Package**: targeted AI Skills Accounts; a Transition Guarantee for workers affected by AI-related restructuring; and matched grants for worker-centred adoption in small and medium enterprises (SMEs). The package would cost **$420 million over three years**. It links training to real job redesign, protects mobility and wages during adjustment, and diffuses productivity beyond large firms. Funding should be staged, independently evaluated and conditional on worker consultation, privacy safeguards and measurable employment, wage and productivity outcomes.
+Generative AI (GenAI) is more likely to reorganise Australian jobs than eliminate them, but gains will not be automatic or evenly shared. Jobs and Skills Australia (JSA) finds greater potential for task augmentation than automation, while routine clerical work, entry-level pathways and already disadvantaged cohorts face concentrated risks. DEWR should implement a three-year **AI Workforce Transition Package**: targeted AI Skills Accounts; a Transition Guarantee for workers affected by AI-related restructuring; and matched grants for worker-centred adoption in small and medium enterprises (SMEs). The package would cost **$420 million over three years**. It links training to real job redesign, protects mobility and wages during adjustment, and diffuses productivity beyond large firms. Funding should be staged, independently evaluated and conditional on worker consultation, privacy safeguards and measurable employment, wage and productivity outcomes.
 
 ## Problem definition and policy context
 
@@ -34,12 +34,9 @@ Options are assessed against **efficiency** (30%), **equity** (30%), **administr
 | **2. AI Transition Guarantee.** Through Workforce Australia, offer 15,000 workers affected by a notified technology restructure career assessment ($3,000 average) plus training, hiring or temporary wage-gap support ($7,000 average); add $15m for delivery and data. | 3.5 — improves mobility but cannot preserve all earnings | 5.0 — concentrates support on realised loss | 3.0 — employer notification and attribution are difficult | **$165m; 3.0** | **3.8** |
 | **3. Worker-centred SME adoption grants.** Through the National AI Centre, provide up to $30,000, matched 1:1, to 2,000 SMEs/not-for-profits. Require worker co-design, a task-and-data impact assessment, human review, portable data and outcome reporting; reserve 40% for regional applicants. $60m grants + $15m support/evaluation. | 4.5 — links technology, job redesign and skills | 3.5 — diffuses gains, though non-adopters receive nothing | 4.0 — extends the existing AI Adopt model | **$75m; 4.0** | **4.0** |
 
-Option 1 ranks highest because it is preventative and targets unequal capability. Option 2 is harder to administer but insures concentrated harm. Option 3 adds most when matched funding and portable systems prevent vendor capture. Together they address different market failures.
-
+Option 1 ranks highest. Options 2 and 3 provide targeted insurance and firm-level additionality; together, the three options address complementary market failures.
 ## Recommended package and implementation
-
-DEWR should fund all three options as a **$420 million, three-year package**, with continuation conditional on results. Skills support creates adaptive capacity; the Guarantee covers losses that training cannot prevent; and adoption grants connect both to firm-level productivity and fair job design.
-
+DEWR should fund all three options as a **$420 million, three-year package**, with continuation conditional on demonstrated results.
 | Timing | Delivery and responsibility | Decision points and KPIs |
 |---|---|---|
 | **Months 0–6** | DEWR leads design with DISR/NAIC, JSA, Jobs and Skills Councils, states, unions and employer groups. JSA identifies priority occupations and establishes employment, wage, task and firm-size baselines. | Publish eligibility, approved-course and consultation rules; establish privacy-preserving data linkage and an independent evaluator. |
